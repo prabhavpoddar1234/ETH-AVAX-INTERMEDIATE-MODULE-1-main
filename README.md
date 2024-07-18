@@ -121,4 +121,4 @@ This detailed breakdown of the contxract functions and state variables should he
 This project was built under the guidance of the [Metacrafters](https://www.metacrafters.io) team as part of their comprehensive [Eth-Avax Proof-intermediate](https://academy.metacrafters.io/content/solidity-avax-intermediate). I express my gratitude to the MetaCrafters team for their support and guidance throughout this learning journey.
 
 ## Authors
-Aayush Tewari
+Prabhav Poddar
